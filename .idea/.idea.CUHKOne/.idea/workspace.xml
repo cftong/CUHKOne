@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6aef4647-a72f-4ee0-8db7-01ad90aefe4e" name="Default" comment="" />
+    <ignored path="CUHKOne.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CUHKOne" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../CUHKOne/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1472112873953" expanded="true" signature="62:579" ph="{...}" />
+                <marker date="1472112873953" expanded="true" signature="109:577" ph="{...}" />
+                <marker date="1472112873953" expanded="true" signature="152:199" ph="{...}" />
+                <marker date="1472112873953" expanded="true" signature="237:342" ph="{...}" />
+                <marker date="1472112873953" expanded="true" signature="382:486" ph="{...}" />
+                <marker date="1472112873953" expanded="true" signature="524:571" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLParser.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../CUHKOne/Controllers/HTMLParser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="102" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
+              <folding>
+                <marker date="1472114093966" expanded="true" signature="53:428" ph="{...}" />
+                <marker date="1472114093966" expanded="true" signature="81:426" ph="{...}" />
+                <marker date="1472114093966" expanded="true" signature="135:422" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../CUHKOne/Startup.cs" />
+        <option value="$PROJECT_DIR$/../../CUHKOne/Views/_ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/../../CUHKOne/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/../../CUHKOne/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/../../CUHKOne/Controllers/HTMLParser.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="y" value="-33" />
+    <option name="width" value="1378" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CUHKOne" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CUHKOne" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CUHKOne" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CUHKOne" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CUHKOne/CUHKOne.xproj" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../CUHKOne/CUHKOne.xproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="EXE_PATH" value="/usr/bin/dotnet" />
+      <option name="PROGRAM_PARAMETERS" value="run" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../CUHKOne" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aef4647-a72f-4ee0-8db7-01ad90aefe4e" name="Default" comment="" />
+      <created>1472112456242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472112456242</updated>
+      <workItem from="1472112459698" duration="30000" />
+      <workItem from="1472112687588" duration="1993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2023000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-33" width="1378" height="807" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26805556" sideWeight="0.13030747" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7416667" sideWeight="0.8696925" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24377745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/bundleconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Project_Readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472112286443" expanded="true" signature="137:207" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="222:489" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="507:542" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="567:725" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="752:859" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="883:1100" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="1130:1742" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="1758:1825" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="1844:1936" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="1962:2203" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2232:2279" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2315:2488" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2524:2629" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2657:2705" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2718:2837" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2850:2889" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2901:2975" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="2997:3056" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="3074:3141" ph="{...}" />
+            <marker date="1472112286443" expanded="true" signature="3165:3246" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/project.lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1472112837923" expanded="true" signature="6:197" ph="..." />
+            <marker date="1472112837923" expanded="true" signature="216:2326" ph="{...}" />
+            <marker date="1472112837923" expanded="true" signature="243:2324" ph="{...}" />
+            <marker date="1472112837923" expanded="true" signature="297:964" ph="{...}" />
+            <marker date="1472112837923" expanded="true" signature="1191:1351" ph="{...}" />
+            <marker date="1472112837923" expanded="true" signature="1569:2318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472112762493" expanded="true" signature="6:52" ph="..." />
+            <marker date="1472112762493" expanded="true" signature="71:445" ph="{...}" />
+            <marker date="1472112762493" expanded="true" signature="98:443" ph="{...}" />
+            <marker date="1472112762493" expanded="true" signature="151:437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <marker date="1472112286443" expanded="true" signature="16:3112" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="23:912" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="193:381" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="386:840" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="913:3104" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="924:1987" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="985:1976" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1021:1537" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1065:1409" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1550:1961" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1605:1942" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1992:2156" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2074:2145" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2162:2414" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2419:3048" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2468:2676" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2685:2954" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472112286443" expanded="true" signature="0:39" ph="@..." />
+            <marker date="1472112286443" expanded="true" signature="41:3042" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="132:437" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="442:2585" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="494:983" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="616:968" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="677:949" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="776:928" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="992:1504" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1113:1489" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1174:1470" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1297:1449" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1513:2038" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1639:2023" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1700:2004" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="1831:1983" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2047:2574" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2170:2559" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2231:2540" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2367:2519" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2590:2811" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="2816:3035" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="3044:5678" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="3066:3444" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="3131:3433" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="3449:4362" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="3504:4351" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="4367:5243" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="4424:5232" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="5248:5671" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="5309:5660" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472112286443" expanded="true" signature="0:39" ph="@..." />
+            <marker date="1472112286443" expanded="true" signature="100:232" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="234:448" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472112286443" expanded="true" signature="0:37" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Views/Shared/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472112286443" expanded="true" signature="0:37" ph="@..." />
+            <marker date="1472112286443" expanded="true" signature="180:315" ph="&lt;.../&gt;" />
+            <marker date="1472112286443" expanded="true" signature="316:706" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding>
+            <marker date="1472112286446" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1472112873953" expanded="true" signature="62:579" ph="{...}" />
+            <marker date="1472112873953" expanded="true" signature="109:577" ph="{...}" />
+            <marker date="1472112873953" expanded="true" signature="152:199" ph="{...}" />
+            <marker date="1472112873953" expanded="true" signature="237:342" ph="{...}" />
+            <marker date="1472112873953" expanded="true" signature="382:486" ph="{...}" />
+            <marker date="1472112873953" expanded="true" signature="524:571" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CUHKOne/Controllers/HTMLParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="102" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
+          <folding>
+            <marker date="1472114093966" expanded="true" signature="53:428" ph="{...}" />
+            <marker date="1472114093966" expanded="true" signature="81:426" ph="{...}" />
+            <marker date="1472114093966" expanded="true" signature="135:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
