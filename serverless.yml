@@ -47,8 +47,19 @@ provider:
 #  artifact: my-service-code.zip
 
 functions:
-  getna:
-    handler: handler.getna
+  getDigest:
+    handler: handler.getDigest
+    events:
+      - http:
+          path: getdata/digest
+          method: get
+          integration: lambda
+          request:
+            template:
+              application/json: '{ "date" : "$input.params(''date'')"}'
+  getNA:
+    handler: handler.getNA
+#    timeout: 5
     events:
       - http:
           path: getdata/na
@@ -57,6 +68,17 @@ functions:
           request:
             template:
               application/json: '{ "lang" : "$input.params(''lang'')" , "year" : "$input.params(''year'')", "page" : "$input.params(''page'')"}'
+
+  getDetails:
+    handler: handler.getDetails
+    events:
+      - http:
+          path: getdata/details
+          method: get
+          integration: lambda
+          request:
+            template:
+              application/json: '{ "url" : "$input.params(''url'')"}'
 #  hello:
 #    handler: handler.hello
 
