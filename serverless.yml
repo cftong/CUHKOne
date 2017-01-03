@@ -54,6 +54,7 @@ functions:
           path: getdata/digest
           method: get
           integration: lambda
+          cors: true
           request:
             template:
               application/json: '{ "date" : "$input.params(''date'')"}'
@@ -65,6 +66,7 @@ functions:
           path: getdata/na
           method: get
           integration: lambda
+          cors: true
           request:
             template:
               application/json: '{ "lang" : "$input.params(''lang'')" , "year" : "$input.params(''year'')", "page" : "$input.params(''page'')"}'
@@ -76,6 +78,7 @@ functions:
           path: getdata/details
           method: get
           integration: lambda
+          cors: true
           request:
             template:
               application/json: '{ "url" : "$input.params(''url'')"}'
